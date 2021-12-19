@@ -1,5 +1,5 @@
 # Places 
-This is a MERN stack application from the "MERN Stack Front To Back" course on Udemy. It is a small social network app that includes authentication, profiles and forum posts.
+This is a MERN stack application from the "The MERN stack complete guide" course on Udemy. It is a small social network app that includes authentication, profiles and forum posts.
 Running in the project: In the project repository, run one in these commands to:
 
 Testing the whole project (both front and back-end): "npm run dev"
